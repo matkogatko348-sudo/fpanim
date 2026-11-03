@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fingerprint Anim</string>
+    <string name="xposed_desc">Replaces the on-screen fingerprint animation with presets or your own frames.</string>
+</resources>
